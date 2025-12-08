@@ -1,19 +1,21 @@
-# 🛡️ Meta-CEW + QIM v5.0: The Rigorous Basis of Ethical Anti-Fragility
+# META-CEW-QIM V5.0: Antifragile Ethical Verification (PGE)
 
-This repository serves as the clean, organized foundation for the **V5.0** implementation of the Meta-CEW + QIM prototype. It is dedicated to a single, verifiable goal: **Demonstrating the Ethical Anti-Fragile Gain.**
-
-### 📈 Core Principle: The Antifragile Gain ($\Delta A$)
-
-The success of this project is measured solely by the system's ability to show a **consistent, small increase in ethical alignment** *after* experiencing adversarial stress.
-
-* **Metric:** $\Delta A > 0$
-* **Target:** Replicate the V4.0 results of **$+\,2.1 \pm 0.8\%$** gain in a fully refactored, transparent environment.
-
-### 📜 Repository Structure (Rigorous Basis)
-
-* **src/**: Final, clean source code for the Rx($\theta$) Gate and alignment functions.
-* **notebooks/**: Jupyter notebooks for all benchmarks, proofs, and verifiable tests.
-* **docs/**: Documentation, including the Technical Report V4.0 backup.
+This repository hosts the V5.0 architecture, focused exclusively on process integrity and mathematical rigor, based on the **Protocol of Ethical Governance (PGE)**.
 
 ---
-*Status: Architecture established. Next step: Formalizing the $\Delta A$ function.*
+
+## CRITICAL RIGOR CLARIFICATION
+
+The V5.0 code relies on the mathematical formulas for **Delta A ($\Delta A$)** and **Rotation Angle ($\theta$)** defined in the attached **Technical Report V4.0** (located in `docs/`).
+
+**This project categorically rejects the metrics, analysis, and conclusions of V4.0.** V5.0 is centered ONLY on verification and anti-fragility.
+
+---
+
+## Repository Structure
+
+| Folder | Content | Rigor Purpose |
+| :--- | :--- | :--- |
+| `src/` | Core code (e.g., `ethical_rotation_gate.py`). | Houses the verified production code. |
+| `notebooks/` | Proof of Concept (PoC) notebooks. | Contains the verifiable proofs demonstrating mathematical rigor. |
+| `docs/` | Technical Report V4.0 and Delta A Manifesto. | Provides the foundational theory and ethical documentation. |
